@@ -1,4 +1,4 @@
-# Simple Job Application Form
+# **📝 Simple Job Application Form**
 
 ## Overview
 
@@ -6,21 +6,21 @@ This project features a simple job application form created using HTML and CSS. 
 
 ## Live Demo
 
-Explore the live demo of the simple job application form https://application-form-job.vercel.app/
+Explore the live demo of the simple job application form ➡️ https://application-form-job.vercel.app/
 
 ## Features
 
-- **Input Fields:** The form includes fields for users to input their personal details such as name, email address, phone number, and address.
+- **📝 Input Fields:** The form includes fields for users to input their personal details such as name, email address, phone number, and address.
   
-- **Qualifications:** Users can also provide information about their education and work experience.
+- **🎓 Qualifications:** Users can also provide information about their education and work experience.
   
-- **Submit Button:** Upon filling out the form, users can submit their application by clicking the submit button.
+- **📤 Submit Button:** Upon filling out the form, users can submit their application by clicking the submit button.
 
 ## Usage
 
 To use the job application form:
 
-1. Access the live demo https://application-form-job.vercel.app/
+1. Access the live demo ➡️ https://application-form-job.vercel.app/
   
 2. Fill out the required fields with your personal information and qualifications.
 
@@ -30,4 +30,4 @@ The job application form is built using HTML for the structure and CSS for styli
 
 ## Credits
 
-This project is hosted on https://vercel.com/
+This project is hosted on https://vercel.com/ 🌐
